@@ -1,0 +1,16 @@
+tensorflow>=2.15.0
+tensorflow-hub>=0.15.0
+torch>=2.1.0
+torchvision>=0.16.0
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+streamlit>=1.28.0
+psutil>=5.9.0
+tqdm>=4.66.0
+scikit-image>=0.21.0
+lpips>=0.1.4
+pytorch-msssim>=1.0.0
+basicsr>=1.4.2
+realesrgan>=0.3.0
